@@ -1,0 +1,210 @@
+html{
+  margin: 0;
+  padding: 0;
+}
+body {font-family: Arial, Helvetica, sans-serif; margin: 0; font-weight: lighter;}
+.top {background-image: url(img/bg.jpg); background-size: cover; height: 90vh; opacity: 90%; z-index: -2;}
+.menu img {float: left; width:100px; padding-left: 90px; display:flex; justify-content:space-around;}
+.bghitam {background: black; height: 90vh; position: absolute; top:0; left: 0; right: 0; opacity: 50%; z-index: -3;}
+.menu ul{list-style: none;display: inline-flex; float: right; padding-right: 80px; padding-top: 20px;}
+.menu ul li{padding-right: 20px; }
+.menu ul li a {text-decoration: none; cursor: pointer; color: white; justify-content:center;}
+.menu ul li a:hover {color: #1CAAE9;}
+.text { text-align: right; padding-right: 90px;padding-top: 230px; color: white; font-weight: lighter;}
+.text h1 {font-size: 40px;}
+.text p {font-size: 25px;}
+.text span {background: #1CAAE9; border-radius: 50px; padding: 15px; }
+.text span a{text-decoration: none; color: white; border: 1px solid transparent; padding-top: 20px;}
+#jurusan { padding-top: 50px; text-align: center; }
+#jurusan h2 h3 p {font-weight: lighter; }
+#jurusan p {opacity: 70%;}
+.keahlian img {width: 50px; }
+.keahlian {padding-top: 50px;}
+.grid {display: grid; grid-template-columns: 1fr 1fr 1fr; width: 80%; margin: auto;  }
+.depan { opacity: 70%; padding-top: 50px; }
+.depan img {width: 100%; z-index: -3; height: 300px;}
+.struktur img {width: 100px;}
+.organisasi {text-align: center; font-weight: lighter; padding-top: 50px;}
+.organisasi h1 {opacity: 80%;}
+.organisasi p{opacity: 50%;}
+.grid2 {display: grid; grid-template-columns: 1fr 1fr;}
+.subscribe {background: black; height: 100px; left:100%;color: white; font-weight: lighter;  text-align: center; opacity: 90%; padding-top: 20px; padding-bottom: 40px;}
+.subscribe a{ border: 1px solid transparent; background: red; color: white; text-decoration: none; padding: 10px; border-radius: 5px; width:30%
+  height: 30%;
+}
+.berita{text-align: center; padding-top: 50px;}
+.berita p{opacity: 50%;}
+.grid4 {display: grid; grid-template-columns: 1fr 1fr 1fr; width: 90%; margin: auto;}
+.grid3 p h2 {text-align: left;}
+.grid3 {box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 1px 0 rgba(0, 0, 0, 0.19); padding: 20px;}
+.grid3 a{ text-decoration: none; border: 1px solid transparent;padding: 10px; background:#1CAAE9; border-radius: 50px; color: white; }
+.grid3 img {border-radius: 4px 4px 0 0;}
+.kontak {background-image: url(img/bg2.png); height: 80vh; background-size: cover; width: 100%;}
+.des {width: 20%; padding-left: 120px; color: white; padding-top: 80px;}
+.footer {background: black; color: white; opacity: 90%; padding: 20px;padding-left: 120px;}
+.footer p{opacity: 50%;}
+.footer a{text-decoration: none; color: white;}
+.at {
+  padding-block: 20px;
+}
+Buat Folder: "img"  Setelah membuat file diatas, jangan lupa download gambar assetnya disini.
+
+Baca Juga: Cara Membuat Web Portofolio dengan HTML dan CSS
+
+Cara Pemasangan Files
+Berikut ini cara menaruh file-file tersebut.
+
+Buat Sebuah Folder. 
+Buat File "index.html", "style.css" didalam folder tersebut, dan pastekan kode-kode diatas tadi. 
+Buat Folder "img". Jika Bingung lihat gambar dibawah ini.
+
+Cara Membuat Web Sekolah dengan Mudah
+Video Membuat Website dengan HTML
+
+Penutup 
+Jika Berhasil mengikuti tutorial diatas, maka anda akan melihat web sekolah dengan tampilan simple dan sangat sederhana. Itulah tadi Cara Membuat Web Sekolah dengan HTML dan CSS.
+
+ Jika pertanyaan atau masalah mengenai artikel yang saya bahas ini. Anda bisa berkomentar dibawah ini. Terima Kasih Sekian dari saya semoga bermanfaat.
+Ahmad Ansori
+Ahmad Ansori
+Hanya seorang mahasiswa Politeknik Negeri di Jawa Timur yang hobi ngeblog dari pagi sampai malam :D
+
+Next Post
+Pengertian Website Hosting Server ID, SG, dan USA
+Previous Post 
+Cara Membuat Web Design untuk Pemula
+20 COMMENTS
+sadiq
+sadiq
+18 December, 2019 16:46
+Maaf Pak mau tanya untuk membuat web aplikasi apa saja yang harus di instal? terima kasih
+
+Ahmad Ansori
+Ahmad Ansori 
+19 December, 2019 06:54
+Xampp gan
+
+Teknik Komputer 2
+Teknik Komputer 2
+02 February, 2020 20:04
+Gg bet, lanjutkan gan
+
+Ahmad Ansori
+Ahmad Ansori 
+03 February, 2020 20:06
+iya gan, siap atas dukungannya :)
+
+Alpi
+Alpi
+31 March, 2020 11:17
+Password winrar img nya apa gan??
+
+Ahmad Ansori
+Ahmad Ansori 
+31 March, 2020 11:58
+terimakasih atas infonya kak, untuk password rar/zipnya sekarang tidak dipassword. Silahkan download lagi ya :)
+
+Anonymous
+Anonymous
+02 July, 2020 14:20
+aplikasi yg digunakan selain browser apa? suaranya nggak terlalu jelas gan
+
+Ahmad Ansori
+Ahmad Ansori 
+02 July, 2020 15:45
+Jelas notepad dan sejenisnya gan.
+
+Fajrul
+Fajrul
+16 September, 2020 18:32
+saya pake sublime kok tampilanya tidak teratur kak
+
+Ahmad Ansori
+Ahmad Ansori 
+18 September, 2020 05:57
+Ada script yang kurang
+
+Anonymous
+Anonymous
+04 March, 2022 07:51
+Yang kurang apa kak kalau boleh tau karena saya juga pakai sublime
+
+Vonny Ramadhani
+Vonny Ramadhani
+01 October, 2020 08:01
+Terimakasih kak membantu saya banget yang baru pemula ingin coba Cara Membuat Web Sekolah dengan HTML dan CSS.
+
+Perkenalkan kak nama saya Vony Ramadhani TP Dari ISB Atma Luhur
+
+Ahmad Ansori
+Ahmad Ansori 
+01 October, 2020 17:26
+Oke kak, jika butuh bantuan backlink bisa order di backlinksatu.com ya...
+
+rudi
+rudi
+03 February, 2021 23:46
+cara manggilnya gimana kak
+
+Ahmad Ansori
+Ahmad Ansori 
+04 February, 2021 06:40
+pertama cari tahu dulu lokasi filenya, kemudian geser file indexnya ke browser.
+
+Zerozxz999
+Zerozxz999
+11 August, 2021 10:42
+kak mau nanya perintah buat melanjutkannya apa ya ? misalnya nih dari kita tekan struktur langsung pindah ke bagian struktur perintahnya apa ya kak?
+
+Ahmad Ansori
+Ahmad Ansori 
+12 August, 2021 12:01
+pakai a hrefs kak
+
+Unknown
+Unknown
+13 October, 2021 01:06
+Assalamu'alaikum, bang cara bikin kayak diweb abang yang layang > jasa link building > seterusnya itu codingnya gimana bang ?? makasih bang
+
+jonathan
+jonathan
+14 August, 2023 06:06
+itu link img nya failed
+
+jonathan
+jonathan
+14 August, 2023 06:12
+itu link file img nya failed bang
+
+Membuat Web,Tutorial
+ARTIKEL TERBARU
+Tutorial
+Cara Membuat Website Toko Online dengan HTML dan CSS
+26 Apr, 2022
+30
+Membuat Web , Tutorial
+Cara Membuat Web Sekolah dengan HTML dan CSS
+11 Dec, 2019
+20
+Tutorial , Web Design
+Cara Membuat Web Design untuk Pemula
+10 Dec, 2019
+4
+Informasi , PPL
+Pengertian Activity Diagram : Tujuan, Simbol, dan Contohnya
+14 Feb, 2024
+Informasi , Web Server
+Pengertian Website Hosting Server ID, SG, dan USA
+11 Dec, 2019
+
+KONTAK KERJASAMA
+Untuk Anda yang ingin bersilaturahmi, berbagi, maupun penawaran kerja sama, dapat menghubungi saya melalui email ansoriweb123@gmail.com / WA : 085735652122
+HALAMAN
+Kontak
+Privacy Policy
+Disclaimer
+Peta Situs
+NEWSLETTER
+Email Address
+Copyright © 2024 AnsoriWeb.com
+
